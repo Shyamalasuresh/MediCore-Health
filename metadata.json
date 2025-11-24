@@ -1,0 +1,5 @@
+{
+  "name": "MediCore Health",
+  "description": "A comprehensive healthcare record application with patient management, appointments, medical records, and billing analytics.",
+  "requestFramePermissions": []
+}
